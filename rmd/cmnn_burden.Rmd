@@ -14,6 +14,11 @@ data_cmnn <- read_csv(here("data", "burden-of-disease-cmnn.csv"))
 # Here render a table for the DALY burden over time for the three countries 
 # You should pivot the data to show each country in a separate column.
 # Use kable() from the knitr package to render the table.
+
+data_cmnn
+pivot_wider(data_cmnn)
+?pivot_wider()
+
 ```
 
 ## Plot Showing Trends in CMNN Burden Over Time
