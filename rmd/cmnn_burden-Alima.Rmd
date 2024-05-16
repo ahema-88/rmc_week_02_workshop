@@ -60,6 +60,8 @@ plot
 ```
 
 ## Summary of CMNN Burden Findings
+This report analyzes the burden of CMNN conditions in three countries: Angola, Belgium, and Benin, over the period from 1990 to 2020.
+Belgium exhibited the lowest Disability-Adjusted Life Years (DALY) burden among the three countries throughout the study period. This suggests relatively better health outcomes and healthcare infrastructure compared to Angola and Benin.
 
 
 
